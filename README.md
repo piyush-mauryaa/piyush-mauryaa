@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome to Piyush maurya's profile! 
 👨‍🎓 I'm a computer science & Engineering Student<br>💬 Ask me about anything, I am happy to help<br>🌱 I'm currently learning:<br>Data Structures and Algorithms on LeetCode<br>Tools and technologies from React ecosystem<br>📬 How to reach me: piyushmaurya76078@gmail.com<br>📝 Resume.<br>💪 This is where I write, code and solve problems:
 
 
